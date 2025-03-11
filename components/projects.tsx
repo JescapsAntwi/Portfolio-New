@@ -34,7 +34,7 @@ const projects = [
   },
   {
     title: "currency converter",
-    description: "reimagining the relationship between humans and our best friends",
+    description: "check the exchange rates of several currencies.",
     image: "/projects/project-4.png",
     liveSite: "https://dognosis.vercel.app/",
     github: "https://github.com/notcodesid/dognosis",
