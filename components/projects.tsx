@@ -6,6 +6,7 @@ const projects = [
     description: "lolify creates branded memes to boost engagement and drive better campaign results.",
     image: "/projects/project-5.png",
     liveSite: "https://lolify.io/",
+    github: "https://github.com/JescapsAntwi/TypingTestGame",
     techStack: ["Next", "React", "Tailwind"],
   },
   {
@@ -17,8 +18,8 @@ const projects = [
     techStack: ["HTML", "CSS", "JavaScript"],
   },
   {
-    title: "react joyride",
-    description: "for getting all the doubts and question at one place",
+    title: "app tour guide",
+    description: "create guided tours for your apps.",
     image: "/projects/project-2.png",
     liveSite: "https://ama-beige.vercel.app/",
     github: "https://github.com/notcodesid/askmeanything",
@@ -26,7 +27,7 @@ const projects = [
   },
   {
     title: "anonymous chat room",
-    description: "a basic roadmap and resources for learning Web development.",
+    description: "a basic tool that helps you to chat with friends or strangers without needing to log in.",
     image: "/projects/project-3.png",
     liveSite: "https://learnwebdev.vercel.app/",
     github: "https://github.com/notcodesid/learnwebdev",
@@ -43,7 +44,7 @@ const projects = [
 
   {
     title: "ninja sketch",
-    description: "a typing tester that lets you check your typing speed.",
+    description: "a whiteboard on your screen, where you can draw lines, and shapes, or even write notes using a pencil or text tool.",
     image: "/projects/project-6.png",
     liveSite: "https://typing-tester-phi.vercel.app/",
     github: "https://github.com/notcodesid/typing-tester",
