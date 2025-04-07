@@ -25,7 +25,7 @@ export const cloudProps: Omit<ICloud, "children"> = {
     depth: 1,
     wheelZoom: false,
     imageScale: 2,
-    activeCursor: "default",
+    activeCursor: "pointer",
     tooltip: "native",
     initial: [0.1, -0.1],
     clickToFront: 500,
@@ -33,7 +33,14 @@ export const cloudProps: Omit<ICloud, "children"> = {
     outlineColour: "#0000",
     maxSpeed: 0.04,
     minSpeed: 0.02,
-    // dragControl: false,
+    textHeight: 20,
+    textColour: "#000",
+    freezeDecel: true,
+    fadeIn: 1000,
+    radiusX: 0.9,
+    radiusY: 0.9,
+    stretchX: 1,
+    stretchY: 1,
   },
 };
 
@@ -53,6 +60,7 @@ export const renderCustomIcon = (icon: SimpleIcon, theme: string) => {
       target: undefined,
       rel: undefined,
       onClick: (e: any) => e.preventDefault(),
+      title: icon.title,
     },
   });
 };
