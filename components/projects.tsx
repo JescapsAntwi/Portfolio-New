@@ -15,7 +15,7 @@ const projects = [
     title: "hospital management system",
     description: "a hospital management system for natembea health center.",
     image: "/projects/project-1.png",
-    liveSite: "https://jescapsantwi.github.io/TypingTestGame/",
+    liveSite: "https://nantembea-interface.vercel.app/",
     github: "https://github.com/JescapsAntwi/Nantembea-Interface",
     techStack: ["React", "TypeScript", "Tailwind"],
   },
