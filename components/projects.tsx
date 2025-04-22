@@ -49,9 +49,9 @@ const projects = [
   },
 
   {
-    title: "amazon landing page clone",
+    title: "Website Redesign",
     description:
-      "a basic tool that helps you to chat with friends or strangers without needing to log in. (under development)",
+      "a redesign of the human practices page of the 2024 Ashesi iGEM team. (under development)",
     image: "/projects/project-3.png",
     liveSite: "",
     github: "",
