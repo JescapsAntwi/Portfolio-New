@@ -24,8 +24,8 @@ const projects = [
     title: "client portfolio",
     description: "a portfolio website for a client.",
     image: "/projects/project-9.png",
-    liveSite: "https://nantembea-interface.vercel.app/",
-    github: "https://github.com/JescapsAntwi/Nantembea-Interface",
+    liveSite: "https://francisacquah.vercel.app/",
+    github: "https://github.com/JescapsAntwi/Client-Francis-Portfolio",
     techStack: ["React", "TypeScript", "Tailwind"],
   },
 
