@@ -193,7 +193,7 @@ const About = () => {
                     </h4>
                     <span className="text-red-500">•</span>
                     <a
-                      href="https://github.com/your-username/freelance-portfolio"
+                      href="https://github.com/JescapsAntwi/DB-Dasboard"
                       target="_blank"
                       rel="noopener noreferrer"
                       className="text-red-500 hover:text-red-600 hover:underline"
