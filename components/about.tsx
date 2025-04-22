@@ -168,7 +168,7 @@ const About = () => {
                       Live Site
                     </a>
                     <span className="text-red-500">•</span>
-                    <span className="text-sm">June 2024 - August 2023</span>
+                    <span className="text-sm">June 2024 - Sep 2024</span>
                   </div>
                   <ul className="list-disc list-inside">
                     <li>
