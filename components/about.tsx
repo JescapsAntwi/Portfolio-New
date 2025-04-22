@@ -160,7 +160,7 @@ const About = () => {
                     </a>
                     <span className="text-red-500">•</span>
                     <a
-                      href="https://tech-solutions-project.com"
+                      href="https://github.com/JescapsAntwi/OIBSIP"
                       target="_blank"
                       rel="noopener noreferrer"
                       className="text-red-500 hover:text-red-600 hover:underline"
@@ -189,7 +189,7 @@ const About = () => {
                 <div>
                   <div className="flex items-center gap-2 mb-4">
                     <h4 className="font-bold text-xl bg-gradient-to-r from-red-500 to-red-700 bg-clip-text text-transparent">
-                    Volunteer Full-Stack Developer - Databank Ghana
+                      Volunteer Full-Stack Developer - Databank Ghana
                     </h4>
                     <span className="text-red-500">•</span>
                     <a
