@@ -27,9 +27,9 @@ const About = () => {
       y: 0,
       transition: {
         duration: 0.6,
-        ease: "easeOut"
-      }
-    }
+        ease: "easeOut",
+      },
+    },
   };
 
   return (
@@ -49,7 +49,7 @@ const About = () => {
       <div className="container grid items-center justify-center gap-12 px-4 md:px-6">
         <div className="grid lg:grid-cols-2 gap-12">
           <div className="space-y-12">
-            <motion.div 
+            <motion.div
               initial="hidden"
               whileInView="visible"
               viewport={{ once: true, margin: "-100px" }}
@@ -75,7 +75,7 @@ const About = () => {
               </p>
             </motion.div>
 
-            <motion.div 
+            <motion.div
               initial="hidden"
               whileInView="visible"
               viewport={{ once: true, margin: "-100px" }}
@@ -112,7 +112,7 @@ const About = () => {
           </div>
 
           <div className="grid gap-12">
-            <motion.div 
+            <motion.div
               initial="hidden"
               whileInView="visible"
               viewport={{ once: true, margin: "-100px" }}
@@ -133,7 +133,7 @@ const About = () => {
               </p>
             </motion.div>
 
-            <motion.div 
+            <motion.div
               initial="hidden"
               whileInView="visible"
               viewport={{ once: true, margin: "-100px" }}
@@ -189,7 +189,7 @@ const About = () => {
                 <div>
                   <div className="flex items-center gap-2 mb-4">
                     <h4 className="font-bold text-xl bg-gradient-to-r from-red-500 to-red-700 bg-clip-text text-transparent">
-                      Freelance Web Developer - Databank Ghana
+                    Volunteer Full-Stack Developer - Databank Ghana
                     </h4>
                     <span className="text-red-500">•</span>
                     <a
@@ -257,6 +257,5 @@ const About = () => {
     </section>
   );
 };
-
 
 export default About;
