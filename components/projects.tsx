@@ -21,6 +21,15 @@ const projects = [
   },
 
   {
+    title: "client portfolio",
+    description: "a portfolio website for a client.",
+    image: "/projects/project-9.png",
+    liveSite: "https://nantembea-interface.vercel.app/",
+    github: "https://github.com/JescapsAntwi/Nantembea-Interface",
+    techStack: ["React", "TypeScript", "Tailwind"],
+  },
+
+  {
     title: "typing test game",
     description: "a typing test game for testing your typing speed.",
     image: "/projects/project-1.png",
