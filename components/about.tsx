@@ -222,8 +222,8 @@ const About = () => {
                       prototyping tools.
                     </li>
                     <li>
-                      Managed client relationships and delivered projects on
-                      schedule
+                      Integrated charts for data visualization, enabling HR to
+                      make data-driven staffing decisions
                     </li>
                   </ul>
                 </div>
