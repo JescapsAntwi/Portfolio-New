@@ -12,12 +12,12 @@ const projects = [
   },
 
   {
-    title: "typing test game",
-    description: "a typing test game for testing your typing speed.",
+    title: "hospital management system",
+    description: "a hospital management system for natembea health center.",
     image: "/projects/project-1.png",
     liveSite: "https://jescapsantwi.github.io/TypingTestGame/",
     github: "https://github.com/JescapsAntwi/TypingTestGame",
-    techStack: ["HTML", "CSS", "JavaScript"],
+    techStack: ["React", "TypeScript", "Tailwind"],
   },
 
   {
