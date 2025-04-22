@@ -23,7 +23,7 @@ const projects = [
   {
     title: "client portfolio",
     description: "a portfolio website for a client.",
-    image: "/projects/project-9.png",
+    image: "/projects/project-10.png",
     liveSite: "https://francisacquah.vercel.app/",
     github: "https://github.com/JescapsAntwi/Client-Francis-Portfolio",
     techStack: ["React", "TypeScript", "Tailwind"],
