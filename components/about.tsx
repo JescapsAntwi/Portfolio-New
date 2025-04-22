@@ -214,7 +214,8 @@ const About = () => {
                   </div>
                   <ul className="list-disc list-inside">
                     <li>
-                      Built custom websites for small businesses and startups
+                      Designed a comprehensive digital system to manage internal
+                      HR records and workflows, reducing manual workload by 40%.
                     </li>
                     <li>
                       Implemented modern web technologies and best practices
