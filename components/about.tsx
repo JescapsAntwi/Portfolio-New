@@ -234,7 +234,7 @@ const About = () => {
 
         <div className="flex justify-center">
           <a
-            href="/JescapsAntwi-CV.pdf"
+            href="/Jescaps Antwi CV.pdf"
             download="JescapsAntwi_CV.pdf"
             className="inline-flex items-center gap-2 px-8 py-4 text-sm font-medium text-white bg-gradient-to-r from-red-500 to-red-600 rounded-md hover:from-red-600 hover:to-red-700 transition-all duration-300 shadow-md hover:shadow-lg"
           >
