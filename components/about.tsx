@@ -218,7 +218,8 @@ const About = () => {
                       HR records and workflows, reducing manual workload by 40%.
                     </li>
                     <li>
-                      Implemented modern web technologies and best practices
+                      Automated workflows using backend logic and no-code
+                      prototyping tools.
                     </li>
                     <li>
                       Managed client relationships and delivered projects on
