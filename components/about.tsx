@@ -210,7 +210,7 @@ const About = () => {
                       Live Site
                     </a>
                     <span className="text-red-500">•</span>
-                    <span className="text-sm"> Mar 2025 - Present</span>
+                    <span className="text-sm"> Mar 2025 - Apr 2025</span>
                   </div>
                   <ul className="list-disc list-inside">
                     <li>
