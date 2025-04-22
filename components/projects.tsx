@@ -52,7 +52,7 @@ const projects = [
     title: "Website Redesign",
     description:
       "a redesign of the human practices page of the 2024 Ashesi iGEM team. (under development)",
-    image: "/projects/project-3.png",
+    image: "/projects/project-9.png",
     liveSite: "",
     github: "",
     techStack: ["React", "Next", "Tailwind"],
