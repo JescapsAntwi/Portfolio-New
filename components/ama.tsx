@@ -32,7 +32,7 @@ export default function AskMeAnything() {
         "template_y6i5e0q",
         {
           from_name: name || "Anonymous",
-          from_email: email || "No email provided",
+          reply_to: email || "no-reply@example.com",
           message: question,
           to_name: "Jescaps Antwi",
         },
