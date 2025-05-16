@@ -189,43 +189,62 @@ const About = () => {
                 <div>
                   <div className="flex items-center gap-2 mb-4">
                     <h4 className="font-bold text-xl bg-gradient-to-r from-red-500 to-red-700 bg-clip-text text-transparent">
-                      Volunteer Full-Stack Developer - Databank Ghana
+                      Python Tutor - Code4All Initiative
                     </h4>
                     <span className="text-red-500">•</span>
-                    <a
-                      href="https://github.com/JescapsAntwi/DB-Dasboard"
-                      target="_blank"
-                      rel="noopener noreferrer"
-                      className="text-red-500 hover:text-red-600 hover:underline"
-                    >
-                      GitHub
-                    </a>
-                    <span className="text-red-500">•</span>
-                    <a
-                      href="https://db-dasboard.vercel.app/"
-                      target="_blank"
-                      rel="noopener noreferrer"
-                      className="text-red-500 hover:text-red-600 hover:underline"
-                    >
-                      Live Site
-                    </a>
-                    <span className="text-red-500">•</span>
-                    <span className="text-sm"> Mar 2025 - Apr 2025</span>
+                    <span className="text-sm">Jan 2025 - Present</span>
                   </div>
-                  <ul className="list-disc list-inside">
-                    <li>
-                      Designed a comprehensive digital system to manage internal
-                      HR records and workflows, reducing manual workload by 40%.
-                    </li>
-                    <li>
-                      Automated workflows using backend logic and no-code
-                      prototyping tools.
-                    </li>
-                    <li>
-                      Integrated charts for data visualization, enabling HR to
-                      make data-driven staffing decisions
-                    </li>
-                  </ul>
+                  <div className="grid grid-cols-1 md:grid-cols-2 gap-4 mb-4">
+                    <div className="grid grid-cols-2 gap-2">
+                      <Image
+                        src="/volunteer1.jpg"
+                        alt="Teaching Python"
+                        width={300}
+                        height={200}
+                        className="rounded-lg object-cover w-full"
+                      />
+                      <Image
+                        src="/volunteer2.jpg"
+                        alt="Group Photo"
+                        width={300}
+                        height={200}
+                        className="rounded-lg object-cover w-full"
+                      />
+                      <Image
+                        src="/volunteer3.jpg"
+                        alt="Teaching Session"
+                        width={300}
+                        height={200}
+                        className="rounded-lg object-cover w-full"
+                      />
+                      <Image
+                        src="/volunteer4.jpg"
+                        alt="Code Demonstration"
+                        width={300}
+                        height={200}
+                        className="rounded-lg object-cover w-full"
+                      />
+                    </div>
+                    <div>
+                      <p className="text-sm text-muted-foreground mb-2">
+                        Berekuso, Eastern Region · On-site
+                      </p>
+                      <ul className="list-disc list-inside">
+                        <li>
+                          Taught and introduced Python programming to 40+ high school students at Aburi Girls' School
+                        </li>
+                        <li>
+                          Collaborated with a team of 15+ fellow Ashesi University student volunteers to deliver engaging, beginner-friendly coding sessions
+                        </li>
+                        <li>
+                          Facilitated weekly in-person workshops every Saturday, covering Python basics, logic building, and hands-on exercises
+                        </li>
+                        <li>
+                          Helped foster digital literacy and computational thinking in young learners through mentorship and structured lesson plans
+                        </li>
+                      </ul>
+                    </div>
+                  </div>
                 </div>
               </div>
             </motion.div>
