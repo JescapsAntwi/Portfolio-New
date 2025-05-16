@@ -1,57 +1,64 @@
-"use client"
+"use client";
 
-import { useState } from 'react'
-import { PlusIcon } from 'lucide-react'
-import { Button } from "@/components/ui/button"
-import { Textarea } from "@/components/ui/textarea"
-import { Dialog, DialogContent, DialogHeader, DialogTitle, DialogTrigger } from "@/components/ui/dialog"
-import { useToast } from "../hooks/use-toast"
-import { createClient } from '@supabase/supabase-js'
-
-const supabaseUrl = process.env.NEXT_PUBLIC_SUPABASE_URL || ''
-const supabaseKey = process.env.NEXT_PUBLIC_SUPABASE_ANON_KEY || ''
-const supabase = createClient(supabaseUrl, supabaseKey)
+import { useState } from "react";
+import { PlusIcon, Send } from "lucide-react";
+import { Button } from "@/components/ui/button";
+import { Textarea } from "@/components/ui/textarea";
+import {
+  Dialog,
+  DialogContent,
+  DialogHeader,
+  DialogTitle,
+  DialogTrigger,
+} from "@/components/ui/dialog";
+import { useToast } from "../hooks/use-toast";
+import emailjs from "@emailjs/browser";
 
 export default function AskMeAnything() {
-  const [open, setOpen] = useState(false)
-  const [question, setQuestion] = useState('')
-  const [email, setEmail] = useState('')
-  const [name, setName] = useState('')
-  const { toast } = useToast()
+  const [open, setOpen] = useState(false);
+  const [question, setQuestion] = useState("");
+  const [email, setEmail] = useState("");
+  const [name, setName] = useState("");
+  const [isLoading, setIsLoading] = useState(false);
+  const { toast } = useToast();
 
   const handleSubmit = async (e: React.FormEvent) => {
-    e.preventDefault()
+    e.preventDefault();
+    setIsLoading(true);
 
     try {
-      const { error } = await supabase
-        .from('messages')
-        .insert([
-          {
-            content: question,
-            email,
-            name,
-            created_at: new Date().toISOString()
-          }
-        ])
+      await emailjs.send(
+        "service_9ap80sf",
+        "template_y6i5e0q",
+        {
+          from_name: name || "Anonymous",
+          from_email: email || "No email provided",
+          message: question,
+          to_name: "Jescaps Antwi",
+        },
+        "e5sjXqOcJAv-rIPfM"
+      );
 
-      if (error) throw error
-
-      setQuestion('')
-      setEmail('')
-      setName('')
-      setOpen(false)
+      setQuestion("");
+      setEmail("");
+      setName("");
+      setOpen(false);
       toast({
         title: "Your message has landed with warmth and joy.",
+        description: "I'll get back to you soon!",
         duration: 3000,
-      })
+      });
     } catch (error) {
       toast({
         title: "Failed to send message",
+        description: "Please try again later.",
         variant: "destructive",
         duration: 3000,
-      })
+      });
+    } finally {
+      setIsLoading(false);
     }
-  }
+  };
 
   return (
     <Dialog open={open} onOpenChange={setOpen}>
@@ -90,11 +97,18 @@ export default function AskMeAnything() {
             className="min-h-[100px]"
             required
           />
-          <Button type="submit" className="w-full">
-            Send
+          <Button type="submit" className="w-full" disabled={isLoading}>
+            {isLoading ? (
+              "Sending..."
+            ) : (
+              <>
+                <Send className="h-4 w-4 mr-2" />
+                Send
+              </>
+            )}
           </Button>
         </form>
       </DialogContent>
     </Dialog>
-  )
+  );
 }
