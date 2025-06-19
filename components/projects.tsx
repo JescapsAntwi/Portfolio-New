@@ -99,7 +99,7 @@ const projects = [
   },
   {
     title: "spin to survive",
-    description: "a typing test game for testing your typing speed.",
+    description: "a modern, interactive slot machine game.",
     image: "/projects/project-1.png",
     liveSite: "https://jescapsantwi.github.io/TypingTestGame/",
     github: "https://github.com/JescapsAntwi/TypingTestGame",
