@@ -32,7 +32,7 @@ const projects = [
   {
     title: "animal racing game",
     description:
-      "A collection of three interactive browser games—built to showcase engaging front-end logic, probability modeling, and responsive gameplay—all bundled into a single modern React project.",
+      "A betting-style racing simulator featuring randomized animal winners based on weighted probabilities.",
     image: "/projects/project-11.png",
     liveSite: "https://francisacquah.vercel.app/",
     github: "https://github.com/JescapsAntwi/Client-Francis-Portfolio",
