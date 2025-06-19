@@ -98,7 +98,7 @@ const projects = [
     techStack: ["React", "TypeScript", "CSS", "HTML"],
   },
   {
-    title: "typing test game",
+    title: "spin to survive",
     description: "a typing test game for testing your typing speed.",
     image: "/projects/project-1.png",
     liveSite: "https://jescapsantwi.github.io/TypingTestGame/",
