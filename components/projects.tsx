@@ -63,7 +63,7 @@ const projects = [
     title: "shooting arcade game",
     description:
       "defend Earth from alien invaders in this action-packed arcade-style game!",
-    image: "/projects/project-13.png",
+    image: "/projects/project-14.png",
     liveSite: "https://shooting-arcade.vercel.app/",
     github: "https://github.com/JescapsAntwi/shooting-arcade",
     techStack: ["React", "TypeScript", "CSS", "HTML"],
