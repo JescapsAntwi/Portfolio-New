@@ -53,7 +53,7 @@ const projects = [
     description:
       "a web application that provides insights and data on agricultural activities, weather, and market trends for farmers.",
     image: "/projects/project-18.png",
-    liveSite: "https://gamehub-trio.vercel.app/",
+    liveSite: "https://solfa-project.netlify.app/",
     github: "https://github.com/JescapsAntwi/gamehub-trio",
     techStack: ["React", "TypeScript", "CSS", "Mongo"],
   },
