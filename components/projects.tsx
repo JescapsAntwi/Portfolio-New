@@ -32,7 +32,7 @@ const projects = [
   {
     title: "hope & healing",
     description: "a portfolio website for a client.",
-    image: "/projects/project-10.png",
+    image: "/projects/project-15.png",
     liveSite: "https://francisacquah.vercel.app/",
     github: "https://github.com/JescapsAntwi/Client-Francis-Portfolio",
     techStack: ["React", "TypeScript", "Tailwind"],
