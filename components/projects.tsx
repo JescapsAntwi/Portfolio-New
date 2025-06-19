@@ -31,7 +31,8 @@ const projects = [
 
   {
     title: "three-in-one game",
-    description: "a portfolio website for a client.",
+    description:
+      "A collection of three interactive browser games—built to showcase engaging front-end logic, probability modeling, and responsive gameplay—all bundled into a single modern React project.",
     image: "/projects/project-10.png",
     liveSite: "https://francisacquah.vercel.app/",
     github: "https://github.com/JescapsAntwi/Client-Francis-Portfolio",
