@@ -50,7 +50,7 @@ const projects = [
   },
 
   {
-    title: "bankroll manager – budgeting strategy game",
+    title: "bankroll manager – budgeting game",
     description:
       "a turn-based strategy simulation that challenges players to manage a bankroll across risk-tiered betting rounds.",
     image: "/projects/project-13.png",
