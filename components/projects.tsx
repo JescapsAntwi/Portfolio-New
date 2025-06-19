@@ -98,7 +98,7 @@ const projects = [
     techStack: ["React", "TypeScript", "CSS", "HTML"],
   },
   {
-    title: "spin to survive",
+    title: "spin & survive",
     description: "a modern, interactive slot machine game.",
     image: "/projects/project-1.png",
     liveSite: "https://jescapsantwi.github.io/TypingTestGame/",
