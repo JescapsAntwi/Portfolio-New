@@ -34,7 +34,7 @@ const projects = [
     description:
       "A betting-style racing simulator featuring randomized animal winners based on weighted probabilities.",
     image: "/projects/project-11.png",
-    liveSite: "https://francisacquah.vercel.app/",
+    liveSite: "https://gamehub-trio.vercel.app/",
     github: "https://github.com/JescapsAntwi/Client-Francis-Portfolio",
     techStack: ["React", "TypeScript", "CSS", "Mongo"],
   },
