@@ -40,7 +40,7 @@ const projects = [
   },
 
   {
-    title: "three-in-one game",
+    title: "OddsMaster – Math & Risk Challenge",
     description:
       "A collection of three interactive browser games—built to showcase engaging front-end logic, probability modeling, and responsive gameplay—all bundled into a single modern React project.",
     image: "/projects/project-10.png",
