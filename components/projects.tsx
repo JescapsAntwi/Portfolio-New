@@ -42,7 +42,7 @@ const projects = [
   {
     title: "oddsmaster – math & risk challenge",
     description:
-      "A collection of three interactive browser games—built to showcase engaging front-end logic, probability modeling, and responsive gameplay—all bundled into a single modern React project.",
+      "test your logic under pressure by solving math puzzles with a twist of confidence-based betting.",
     image: "/projects/project-12.png",
     liveSite: "https://francisacquah.vercel.app/",
     github: "https://github.com/JescapsAntwi/Client-Francis-Portfolio",
