@@ -103,7 +103,7 @@ const projects = [
     image: "/projects/project-16.png",
     liveSite: "https://spin-to-survive.vercel.app/",
     github: "https://github.com/JescapsAntwi/spin-to-survive",
-    techStack: ["React", "TypeScript", "JavaScript"],
+    techStack: ["React", "TypeScript", "Tailwind"],
   },
   {
     title: "typing test game",
