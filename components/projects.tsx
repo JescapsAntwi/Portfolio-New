@@ -45,7 +45,7 @@ const projects = [
       "test your logic under pressure by solving math puzzles with a twist of confidence-based betting.",
     image: "/projects/project-12.png",
     liveSite: "https://gamehub-trio.vercel.app/",
-    github: "https://github.com/JescapsAntwi/Client-Francis-Portfolio",
+    github: "https://github.com/JescapsAntwi/gamehub-trio",
     techStack: ["React", "TypeScript", "CSS", "Mongo"],
   },
 
