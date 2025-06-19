@@ -52,7 +52,7 @@ const projects = [
   {
     title: "bankroll manager – budgeting strategy game",
     description:
-      "A collection of three interactive browser games—built to showcase engaging front-end logic, probability modeling, and responsive gameplay—all bundled into a single modern React project.",
+      "a turn-based strategy simulation that challenges players to manage a bankroll across risk-tiered betting rounds.",
     image: "/projects/project-13.png",
     liveSite: "https://francisacquah.vercel.app/",
     github: "https://github.com/JescapsAntwi/Client-Francis-Portfolio",
