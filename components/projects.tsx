@@ -55,7 +55,7 @@ const projects = [
       "a turn-based strategy simulation that challenges players to manage a bankroll across risk-tiered betting rounds.",
     image: "/projects/project-13.png",
     liveSite: "https://gamehub-trio.vercel.app/",
-    github: "https://github.com/JescapsAntwi/Client-Francis-Portfolio",
+    github: "https://github.com/JescapsAntwi/gamehub-trio",
     techStack: ["React", "TypeScript", "CSS", "Mongo"],
   },
   {
