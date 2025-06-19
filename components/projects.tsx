@@ -100,7 +100,7 @@ const projects = [
   {
     title: "spin & survive",
     description: "a modern, interactive slot machine game.",
-    image: "/projects/project-1.png",
+    image: "/projects/project-17.png",
     liveSite: "https://jescapsantwi.github.io/TypingTestGame/",
     github: "https://github.com/JescapsAntwi/TypingTestGame",
     techStack: ["HTML", "CSS", "JavaScript"],
