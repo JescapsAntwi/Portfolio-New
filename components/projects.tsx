@@ -101,7 +101,7 @@ const projects = [
     title: "spin & survive",
     description: "a modern, interactive slot machine game.",
     image: "/projects/project-16.png",
-    liveSite: "https://jescapsantwi.github.io/TypingTestGame/",
+    liveSite: "https://spin-to-survive.vercel.app/",
     github: "https://github.com/JescapsAntwi/TypingTestGame",
     techStack: ["HTML", "CSS", "JavaScript"],
   },
