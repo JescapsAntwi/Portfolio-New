@@ -30,6 +30,15 @@ const projects = [
   },
 
   {
+    title: "hope & healing",
+    description: "a portfolio website for a client.",
+    image: "/projects/project-10.png",
+    liveSite: "https://francisacquah.vercel.app/",
+    github: "https://github.com/JescapsAntwi/Client-Francis-Portfolio",
+    techStack: ["React", "TypeScript", "Tailwind"],
+  },
+
+  {
     title: "animal racing game",
     description:
       "A betting-style racing simulator featuring randomized animal winners based on weighted probabilities.",
