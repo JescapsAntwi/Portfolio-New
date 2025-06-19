@@ -62,7 +62,7 @@ const projects = [
   {
     title: "shooting arcade game",
     description:
-      "a turn-based strategy simulation that challenges players to manage a bankroll across risk-tiered betting rounds.",
+      "defend Earth from alien invaders in this action-packed arcade-style game!",
     image: "/projects/project-13.png",
     liveSite: "https://gamehub-trio.vercel.app/",
     github: "https://github.com/JescapsAntwi/gamehub-trio",
