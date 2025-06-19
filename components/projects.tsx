@@ -49,7 +49,7 @@ const projects = [
   },
 
   {
-    title: "animal racing game",
+    title: "agri life insights",
     description:
       "A betting-style racing simulator featuring randomized animal winners based on weighted probabilities.",
     image: "/projects/project-11.png",
