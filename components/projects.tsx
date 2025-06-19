@@ -30,7 +30,7 @@ const projects = [
   },
 
   {
-    title: "client portfolio",
+    title: "three-in-one game",
     description: "a portfolio website for a client.",
     image: "/projects/project-10.png",
     liveSite: "https://francisacquah.vercel.app/",
