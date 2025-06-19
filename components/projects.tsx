@@ -53,7 +53,7 @@ const projects = [
     title: "Bankroll Manager – Budgeting Strategy Game",
     description:
       "A collection of three interactive browser games—built to showcase engaging front-end logic, probability modeling, and responsive gameplay—all bundled into a single modern React project.",
-    image: "/projects/project-10.png",
+    image: "/projects/project-13.png",
     liveSite: "https://francisacquah.vercel.app/",
     github: "https://github.com/JescapsAntwi/Client-Francis-Portfolio",
     techStack: ["React", "TypeScript", "CSS", "Mongo"],
