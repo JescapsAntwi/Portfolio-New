@@ -64,7 +64,7 @@ const projects = [
     description:
       "defend Earth from alien invaders in this action-packed arcade-style game!",
     image: "/projects/project-13.png",
-    liveSite: "https://gamehub-trio.vercel.app/",
+    liveSite: "https://shooting-arcade.vercel.app/",
     github: "https://github.com/JescapsAntwi/gamehub-trio",
     techStack: ["React", "TypeScript", "CSS", "Mongo"],
   },
