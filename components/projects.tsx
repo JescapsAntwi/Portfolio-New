@@ -66,7 +66,7 @@ const projects = [
     image: "/projects/project-13.png",
     liveSite: "https://shooting-arcade.vercel.app/",
     github: "https://github.com/JescapsAntwi/shooting-arcade",
-    techStack: ["React", "TypeScript", "CSS"],
+    techStack: ["React", "TypeScript", "CSS", "HTML"],
   },
   {
     title: "typing test game",
