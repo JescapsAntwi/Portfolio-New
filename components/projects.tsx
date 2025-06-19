@@ -35,7 +35,7 @@ const projects = [
     image: "/projects/project-10.png",
     liveSite: "https://francisacquah.vercel.app/",
     github: "https://github.com/JescapsAntwi/Client-Francis-Portfolio",
-    techStack: ["React", "TypeScript", "Tailwind"],
+    techStack: ["React", "TypeScript", "CSS", "Mongo"],
   },
 
   {
