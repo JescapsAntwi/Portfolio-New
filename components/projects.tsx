@@ -31,7 +31,8 @@ const projects = [
 
   {
     title: "school exeat system",
-    description: "a portfolio website for a client.",
+    description:
+      "the Aburi Girls Exeat Hub is a comprehensive digital platform designed to modernize and streamline the exeat management process.",
     image: "/projects/project-10.png",
     liveSite: "https://francisacquah.vercel.app/",
     github: "https://github.com/JescapsAntwi/Client-Francis-Portfolio",
