@@ -52,7 +52,7 @@ const projects = [
     title: "agri life insights",
     description:
       "a web application that provides insights and data on agricultural activities, weather, and market trends for farmers.",
-    image: "/projects/project-11.png",
+    image: "/projects/project-18.png",
     liveSite: "https://gamehub-trio.vercel.app/",
     github: "https://github.com/JescapsAntwi/gamehub-trio",
     techStack: ["React", "TypeScript", "CSS", "Mongo"],
