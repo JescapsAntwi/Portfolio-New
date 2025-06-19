@@ -58,6 +58,16 @@ const projects = [
     github: "https://github.com/JescapsAntwi/gamehub-trio",
     techStack: ["React", "TypeScript", "CSS", "Mongo"],
   },
+
+  {
+    title: "shooting arcade game",
+    description:
+      "a turn-based strategy simulation that challenges players to manage a bankroll across risk-tiered betting rounds.",
+    image: "/projects/project-13.png",
+    liveSite: "https://gamehub-trio.vercel.app/",
+    github: "https://github.com/JescapsAntwi/gamehub-trio",
+    techStack: ["React", "TypeScript", "CSS", "Mongo"],
+  },
   {
     title: "typing test game",
     description: "a typing test game for testing your typing speed.",
