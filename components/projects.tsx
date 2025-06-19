@@ -51,7 +51,7 @@ const projects = [
   {
     title: "agri life insights",
     description:
-      "A betting-style racing simulator featuring randomized animal winners based on weighted probabilities.",
+      "a web application that provides insights and data on agricultural activities, weather, and market trends for farmers.",
     image: "/projects/project-11.png",
     liveSite: "https://gamehub-trio.vercel.app/",
     github: "https://github.com/JescapsAntwi/gamehub-trio",
