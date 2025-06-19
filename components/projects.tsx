@@ -30,6 +30,14 @@ const projects = [
   },
 
   {
+    title: "school exeat system",
+    description: "a portfolio website for a client.",
+    image: "/projects/project-10.png",
+    liveSite: "https://francisacquah.vercel.app/",
+    github: "https://github.com/JescapsAntwi/Client-Francis-Portfolio",
+    techStack: ["React", "TypeScript", "Tailwind"],
+  },
+  {
     title: "hope & healing",
     description:
       "hope & healing is a comprehensive online hub dedicated to supporting survivors of Gender-Based Violence (GBV), their families, and allies. Our platform provides a safe, accessible space for resources, support, and community building in the fight against GBV.",
