@@ -59,6 +59,16 @@ const projects = [
   },
 
   {
+    title: "animal racing game",
+    description:
+      "A betting-style racing simulator featuring randomized animal winners based on weighted probabilities.",
+    image: "/projects/project-11.png",
+    liveSite: "https://gamehub-trio.vercel.app/",
+    github: "https://github.com/JescapsAntwi/gamehub-trio",
+    techStack: ["React", "TypeScript", "CSS", "Mongo"],
+  },
+
+  {
     title: "oddsmaster – math & risk challenge",
     description:
       "test your logic under pressure by solving math puzzles with a twist of confidence-based betting.",
