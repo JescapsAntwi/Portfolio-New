@@ -30,6 +30,15 @@ const projects = [
   },
 
   {
+    title: "client portfolio",
+    description: "a portfolio website for a client.",
+    image: "/projects/project-10.png",
+    liveSite: "https://francisacquah.vercel.app/",
+    github: "https://github.com/JescapsAntwi/Client-Francis-Portfolio",
+    techStack: ["React", "TypeScript", "Tailwind"],
+  },
+
+  {
     title: "typing test game",
     description: "a typing test game for testing your typing speed.",
     image: "/projects/project-1.png",
