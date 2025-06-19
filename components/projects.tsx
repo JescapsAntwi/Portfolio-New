@@ -105,6 +105,14 @@ const projects = [
     github: "https://github.com/JescapsAntwi/TypingTestGame",
     techStack: ["HTML", "CSS", "JavaScript"],
   },
+  {
+    title: "typing test game",
+    description: "a typing test game for testing your typing speed.",
+    image: "/projects/project-1.png",
+    liveSite: "https://jescapsantwi.github.io/TypingTestGame/",
+    github: "https://github.com/JescapsAntwi/TypingTestGame",
+    techStack: ["HTML", "CSS", "JavaScript"],
+  },
 
   {
     title: "sketchez",
