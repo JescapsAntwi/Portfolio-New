@@ -33,7 +33,7 @@ const projects = [
     title: "school exeat system",
     description:
       "the Aburi Girls Exeat Hub is a comprehensive digital platform designed to modernize and streamline the exeat management process.",
-    image: "/projects/project-10.png",
+    image: "/projects/project-17.png",
     liveSite: "https://aburi-girls-exeat.netlify.app/",
     github: "https://github.com/JescapsAntwi/aburi-girls-exeat-system",
     techStack: ["React", "TypeScript", "Tailwind"],
