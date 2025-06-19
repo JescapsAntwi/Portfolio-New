@@ -50,7 +50,7 @@ const projects = [
   },
 
   {
-    title: "bankroll manager – Budgeting Strategy Game",
+    title: "bankroll manager – budgeting strategy game",
     description:
       "A collection of three interactive browser games—built to showcase engaging front-end logic, probability modeling, and responsive gameplay—all bundled into a single modern React project.",
     image: "/projects/project-13.png",
