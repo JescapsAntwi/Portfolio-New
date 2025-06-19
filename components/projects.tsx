@@ -48,6 +48,16 @@ const projects = [
     github: "https://github.com/JescapsAntwi/Client-Francis-Portfolio",
     techStack: ["React", "TypeScript", "CSS", "Mongo"],
   },
+
+  {
+    title: "three-in-one game",
+    description:
+      "A collection of three interactive browser games—built to showcase engaging front-end logic, probability modeling, and responsive gameplay—all bundled into a single modern React project.",
+    image: "/projects/project-10.png",
+    liveSite: "https://francisacquah.vercel.app/",
+    github: "https://github.com/JescapsAntwi/Client-Francis-Portfolio",
+    techStack: ["React", "TypeScript", "CSS", "Mongo"],
+  },
   {
     title: "typing test game",
     description: "a typing test game for testing your typing speed.",
