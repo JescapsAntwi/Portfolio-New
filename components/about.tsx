@@ -244,7 +244,7 @@ const About = () => {
                     </a>
                     <span className="text-red-500">•</span>
                     <a
-                      href="https://db-dasboard.vercel.app/"
+                      href="https://github.com/JescapsAntwi/Codveda_Submission"
                       target="_blank"
                       rel="noopener noreferrer"
                       className="text-red-500 hover:text-red-600 hover:underline"
