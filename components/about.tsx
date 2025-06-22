@@ -231,7 +231,7 @@ const About = () => {
                 <div>
                   <div className="flex items-center gap-2 mb-4">
                     <h4 className="font-bold text-xl bg-gradient-to-r from-red-500 to-red-700 bg-clip-text text-transparent">
-                      Machine - Databank Ghana
+                      Machine Learning Intern- Databank Ghana
                     </h4>
                     <span className="text-red-500">•</span>
                     <a
