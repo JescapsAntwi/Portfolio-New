@@ -256,17 +256,12 @@ const About = () => {
                   </div>
                   <ul className="list-disc list-inside">
                     <li>
-                      Designed a comprehensive digital system to manage internal
-                      HR records and workflows, reducing manual workload by 40%.
+                      Achieved successful model training across different
+                      algorithms
                     </li>
-                    <li>
-                      Automated workflows using backend logic and no-code
-                      prototyping tools.
-                    </li>
-                    <li>
-                      Integrated charts for data visualization, enabling HR to
-                      make data-driven staffing decisions
-                    </li>
+                    <li>Implemented effective hyperparameter tuning</li>
+                    <li>Produced a comprehensive model evaluation</li>
+                    <li>Practical application of machine learning concepts</li>
                   </ul>
                 </div>
               </div>
