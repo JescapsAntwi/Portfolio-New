@@ -227,6 +227,48 @@ const About = () => {
                     </li>
                   </ul>
                 </div>
+
+                <div>
+                  <div className="flex items-center gap-2 mb-4">
+                    <h4 className="font-bold text-xl bg-gradient-to-r from-red-500 to-red-700 bg-clip-text text-transparent">
+                      M - Databank Ghana
+                    </h4>
+                    <span className="text-red-500">•</span>
+                    <a
+                      href="https://github.com/JescapsAntwi/DB-Dasboard"
+                      target="_blank"
+                      rel="noopener noreferrer"
+                      className="text-red-500 hover:text-red-600 hover:underline"
+                    >
+                      GitHub
+                    </a>
+                    <span className="text-red-500">•</span>
+                    <a
+                      href="https://db-dasboard.vercel.app/"
+                      target="_blank"
+                      rel="noopener noreferrer"
+                      className="text-red-500 hover:text-red-600 hover:underline"
+                    >
+                      Live Site
+                    </a>
+                    <span className="text-red-500">•</span>
+                    <span className="text-sm"> Mar 2025 - Apr 2025</span>
+                  </div>
+                  <ul className="list-disc list-inside">
+                    <li>
+                      Designed a comprehensive digital system to manage internal
+                      HR records and workflows, reducing manual workload by 40%.
+                    </li>
+                    <li>
+                      Automated workflows using backend logic and no-code
+                      prototyping tools.
+                    </li>
+                    <li>
+                      Integrated charts for data visualization, enabling HR to
+                      make data-driven staffing decisions
+                    </li>
+                  </ul>
+                </div>
               </div>
             </motion.div>
           </div>
