@@ -6,7 +6,7 @@ const projects = [
     description:
       "a fuel prediction system for Ghana’s Satellite Trans Limited.",
     image: "/projects/project-19.png",
-    liveSite: "https://db-dasboard.vercel.app/",
+    liveSite: "https://f09f5335bd586d5a80.gradio.live/",
     github: "https://github.com/JescapsAntwi/fuel-predictor",
     techStack: ["React", "TypeScript", "Tailwind"],
   },
