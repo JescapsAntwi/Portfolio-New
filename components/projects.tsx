@@ -120,7 +120,7 @@ const projects = [
       "a whiteboard on your screen, where you can draw lines, and shapes, or even write notes using a pencil or text tool.",
     image: "/projects/project-4.png",
     liveSite: "https://sketchez.vercel.app/",
-    github: "",
+    github: "https://github.com/JescapsAntwi/Sketchez",
     techStack: ["React", "TypeScript", "Tailwind"],
   },
 
