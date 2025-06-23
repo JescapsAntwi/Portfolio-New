@@ -10,6 +10,15 @@ const projects = [
     github: "https://github.com/JescapsAntwi/DB-Dasboard",
     techStack: ["React", "TypeScript", "Tailwind"],
   },
+  {
+    title: "employee + human capital dashboard",
+    description:
+      "a sleek, interactive dashboard that transforms employee statistics and human capital data into visually engaging insights, blending dynamic charts.",
+    image: "/projects/project-7.png",
+    liveSite: "https://db-dasboard.vercel.app/",
+    github: "https://github.com/JescapsAntwi/DB-Dasboard",
+    techStack: ["React", "TypeScript", "Tailwind"],
+  },
 
   {
     title: "hospital management system",
