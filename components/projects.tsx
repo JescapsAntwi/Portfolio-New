@@ -8,7 +8,7 @@ const projects = [
     image: "/projects/project-19.png",
     liveSite: "https://f09f5335bd586d5a80.gradio.live/",
     github: "https://github.com/JescapsAntwi/fuel-predictor",
-    techStack: ["React", "TypeScript", "Tailwind"],
+    techStack: ["Python"],
   },
   {
     title: "employee + human capital dashboard",
