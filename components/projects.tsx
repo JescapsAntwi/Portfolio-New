@@ -2,7 +2,7 @@ import ProjectCard from "./ProjectCard";
 
 const projects = [
   {
-    title: "employee + human capital dashboard",
+    title: "fuel quantity predictor app",
     description:
       "a sleek, interactive dashboard that transforms employee statistics and human capital data into visually engaging insights, blending dynamic charts.",
     image: "/projects/project-7.png",
