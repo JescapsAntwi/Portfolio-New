@@ -4,7 +4,7 @@ const projects = [
   {
     title: "fuel quantity predictor app",
     description:
-      "a sleek, interactive dashboard that transforms employee statistics and human capital data into visually engaging insights, blending dynamic charts.",
+      "a fuel prediction system for Ghana’s Satellite Trans Limited.",
     image: "/projects/project-7.png",
     liveSite: "https://db-dasboard.vercel.app/",
     github: "https://github.com/JescapsAntwi/DB-Dasboard",
