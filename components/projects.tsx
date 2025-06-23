@@ -5,7 +5,7 @@ const projects = [
     title: "fuel quantity predictor app",
     description:
       "a fuel prediction system for Ghana’s Satellite Trans Limited.",
-    image: "/projects/project-7.png",
+    image: "/projects/project-19.png",
     liveSite: "https://db-dasboard.vercel.app/",
     github: "https://github.com/JescapsAntwi/DB-Dasboard",
     techStack: ["React", "TypeScript", "Tailwind"],
