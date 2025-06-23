@@ -129,8 +129,8 @@ const projects = [
     description:
       "a redesign of the human practices page of the 2024 Ashesi iGEM team. (under development)",
     image: "/projects/project-9.png",
-    liveSite: "",
-    github: "",
+    liveSite: "https://igem-project.vercel.app/",
+    github: "https://github.com/JescapsAntwi/IGEM-Project",
     techStack: ["React", "Next", "Tailwind"],
   },
   {
