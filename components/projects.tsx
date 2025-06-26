@@ -32,9 +32,9 @@ const projects = [
     title: "jumpman X nike site redesign",
     description: "a redesign of the popular jumpman X Nike site.",
     image: "/projects/project-20.png",
-    liveSite: "https://francisacquah.vercel.app/",
-    github: "https://github.com/JescapsAntwi/Client-Francis-Portfolio",
-    techStack: ["React", "TypeScript", "Tailwind"], //add firebase
+    liveSite: "https://nike-x-jescaps.vercel.app/",
+    github: "https://github.com/JescapsAntwi/nike-jordan-redesign",
+    techStack: ["Next", "TypeScript", "Tailwind", "Firebase"], //add firebase
   },
   {
     title: "client portfolio",
