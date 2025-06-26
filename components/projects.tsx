@@ -147,7 +147,7 @@ const projects = [
     description:
       "check the exchange rates of several currencies. (under development)",
     image: "/projects/project-6.png",
-    liveSite: "",
+    liveSite: "https://currency-converter-jes.netlify.app/",
     github: "https://github.com/JescapsAntwi/currency-converter",
     techStack: ["Next", "React", "Tailwind"],
   },
