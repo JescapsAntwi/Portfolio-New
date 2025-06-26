@@ -30,7 +30,7 @@ const projects = [
   },
   {
     title: "jumpman X nike site redesign",
-    description: "a portfolio website for a client.",
+    description: "a redesign of the popular jumpman X Nike site.",
     image: "/projects/project-10.png",
     liveSite: "https://francisacquah.vercel.app/",
     github: "https://github.com/JescapsAntwi/Client-Francis-Portfolio",
