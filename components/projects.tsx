@@ -134,7 +134,7 @@ const projects = [
   },
 
   {
-    title: "Website Redesign",
+    title: "website Redesign",
     description:
       "a redesign of the human practices page of the 2024 Ashesi iGEM team.",
     image: "/projects/project-9.png",
@@ -148,7 +148,7 @@ const projects = [
     image: "/projects/project-6.png",
     liveSite: "https://currency-converter-jes.netlify.app/",
     github: "https://github.com/JescapsAntwi/currency-converter",
-    techStack: ["HTML", "CSS", "Javascript"],
+    techStack: ["HTML", "CSS", "JavaScript"],
   },
   //check the exchange rates of several currencies.
 
