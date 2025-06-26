@@ -148,7 +148,7 @@ const projects = [
       "check the exchange rates of several currencies. (under development)",
     image: "/projects/project-6.png",
     liveSite: "",
-    github: "",
+    github: "https://github.com/JescapsAntwi/currency-converter",
     techStack: ["Next", "React", "Tailwind"],
   },
   //check the exchange rates of several currencies.
