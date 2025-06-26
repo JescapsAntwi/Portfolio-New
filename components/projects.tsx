@@ -134,7 +134,7 @@ const projects = [
   },
 
   {
-    title: "website Redesign",
+    title: "website redesign",
     description:
       "a redesign of the human practices page of the 2024 Ashesi iGEM team.",
     image: "/projects/project-9.png",
