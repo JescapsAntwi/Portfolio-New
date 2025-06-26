@@ -148,7 +148,7 @@ const projects = [
     image: "/projects/project-6.png",
     liveSite: "https://currency-converter-jes.netlify.app/",
     github: "https://github.com/JescapsAntwi/currency-converter",
-    techStack: ["Next", "React", "Tailwind"],
+    techStack: ["HTML", "CSS", "Javascript"],
   },
   //check the exchange rates of several currencies.
 
