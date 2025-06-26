@@ -34,7 +34,7 @@ const projects = [
     image: "/projects/project-20.png",
     liveSite: "https://francisacquah.vercel.app/",
     github: "https://github.com/JescapsAntwi/Client-Francis-Portfolio",
-    techStack: ["React", "TypeScript", "Tailwind"],
+    techStack: ["React", "TypeScript", "Tailwind"], //add firebase
   },
   {
     title: "client portfolio",
