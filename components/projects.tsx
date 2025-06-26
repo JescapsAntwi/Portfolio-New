@@ -28,7 +28,14 @@ const projects = [
     github: "https://github.com/JescapsAntwi/Nantembea-Interface",
     techStack: ["React", "TypeScript", "Tailwind"],
   },
-
+  {
+    title: "jumpman X nike site redesign",
+    description: "a portfolio website for a client.",
+    image: "/projects/project-10.png",
+    liveSite: "https://francisacquah.vercel.app/",
+    github: "https://github.com/JescapsAntwi/Client-Francis-Portfolio",
+    techStack: ["React", "TypeScript", "Tailwind"],
+  },
   {
     title: "client portfolio",
     description: "a portfolio website for a client.",
