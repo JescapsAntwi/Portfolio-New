@@ -227,6 +227,10 @@ const About = () => {
                       Recommended a cloud-native architecture based on client
                       needs and system analysis
                     </li>
+                    <li>
+                      Recommended a cloud-native architecture based on client
+                      needs and system analysis
+                    </li>
                   </ul>
                 </div>
 
