@@ -275,6 +275,9 @@ const About = () => {
                       Applied system design principles to architect scalable
                       backend services
                     </li>
+                    <li>
+                      Developed backend logic using Java, JPA, and Spring Boot
+                    </li>
                   </ul>
                 </div>
               </div>
