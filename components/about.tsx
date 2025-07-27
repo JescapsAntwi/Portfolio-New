@@ -195,7 +195,7 @@ const About = () => {
                     </h4>
                     <span className="text-red-500">•</span>
                     <a
-                      href="https://github.com/JescapsAntwi/DB-Dasboard"
+                      href="https://github.com/JescapsAntwi/jpmorgan-chase---co"
                       target="_blank"
                       rel="noopener noreferrer"
                       className="text-red-500 hover:text-red-600 hover:underline"
@@ -204,7 +204,7 @@ const About = () => {
                     </a>
                     <span className="text-red-500">•</span>
                     <a
-                      href="https://db-dasboard.vercel.app/"
+                      href="https://github.com/JescapsAntwi/jpmorgan-chase---co"
                       target="_blank"
                       rel="noopener noreferrer"
                       className="text-red-500 hover:text-red-600 hover:underline"
@@ -212,7 +212,7 @@ const About = () => {
                       Live Site
                     </a>
                     <span className="text-red-500">•</span>
-                    <span className="text-sm"> Mar 2025 - Apr 2025</span>
+                    <span className="text-sm">July 2025</span>
                   </div>
                   <ul className="list-disc list-inside">
                     <li>
