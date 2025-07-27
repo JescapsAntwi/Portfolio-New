@@ -271,7 +271,10 @@ const About = () => {
                       Relationship Diagrams (ERDs)
                     </li>
                     <li>Produced a comprehensive model evaluation</li>
-                    <li>Practical application of machine learning concepts</li>
+                    <li>
+                      Applied system design principles to architect scalable
+                      backend services
+                    </li>
                   </ul>
                 </div>
               </div>
