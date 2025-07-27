@@ -173,8 +173,8 @@ const About = () => {
                   </div>
                   <ul className="list-disc list-inside">
                     <li>
-                      Developed and maintained responsive web applications using
-                      React and TypeScript
+                      Built and integrated a live stock price chart using
+                      real-time data feeds
                     </li>
                     <li>
                       Collaborated with the design team to implement UI/UX
