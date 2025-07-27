@@ -152,7 +152,7 @@ const About = () => {
                     </h4>
                     <span className="text-red-500">•</span>
                     <a
-                      href="https://github.com/JescapsAntwi/OIBSIP"
+                      href="https://github.com/JescapsAntwi/jpmorgan-chase---co"
                       target="_blank"
                       rel="noopener noreferrer"
                       className="text-red-500 hover:text-red-600 hover:underline"
