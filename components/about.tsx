@@ -147,7 +147,8 @@ const About = () => {
                 <div>
                   <div className="flex items-center gap-2 mb-4">
                     <h4 className="font-bold text-xl bg-gradient-to-r from-red-500 to-red-700 bg-clip-text text-transparent">
-                      Frontend Developer Intern - Oasis Infobyte (India)
+                      Software Engineering Virtual Experience – JPMorgan Chase &
+                      Co. (Forage)
                     </h4>
                     <span className="text-red-500">•</span>
                     <a
@@ -168,7 +169,7 @@ const About = () => {
                       Live Site
                     </a>
                     <span className="text-red-500">•</span>
-                    <span className="text-sm">June 2024 - Sep 2024</span>
+                    <span className="text-sm">July 2025</span>
                   </div>
                   <ul className="list-disc list-inside">
                     <li>
