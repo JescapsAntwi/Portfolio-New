@@ -224,8 +224,8 @@ const About = () => {
                       IaaS and PaaS solutions
                     </li>
                     <li>
-                      Integrated charts for data visualization, enabling HR to
-                      make data-driven staffing decisions
+                      Recommended a cloud-native architecture based on client
+                      needs and system analysis
                     </li>
                   </ul>
                 </div>
