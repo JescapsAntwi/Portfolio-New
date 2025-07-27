@@ -177,8 +177,8 @@ const About = () => {
                       real-time data feeds
                     </li>
                     <li>
-                      Collaborated with the design team to implement UI/UX
-                      improvements
+                      Implemented a REST API and handled Kafka-based transaction
+                      streaming
                     </li>
                     <li>
                       Optimized application performance resulting in 30% faster
