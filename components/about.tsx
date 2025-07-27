@@ -263,8 +263,8 @@ const About = () => {
                   </div>
                   <ul className="list-disc list-inside">
                     <li>
-                      Achieved successful model training across different
-                      algorithms
+                      Designed a portfolio management system for financial
+                      advisors
                     </li>
                     <li>Implemented effective hyperparameter tuning</li>
                     <li>Produced a comprehensive model evaluation</li>
