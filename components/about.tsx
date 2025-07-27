@@ -242,7 +242,7 @@ const About = () => {
                     </h4>
                     <span className="text-red-500">•</span>
                     <a
-                      href="https://github.com/JescapsAntwi/Codveda_Submission"
+                      href="https://github.com/JescapsAntwi/wells-fargo-task2"
                       target="_blank"
                       rel="noopener noreferrer"
                       className="text-red-500 hover:text-red-600 hover:underline"
@@ -251,7 +251,7 @@ const About = () => {
                     </a>
                     <span className="text-red-500">•</span>
                     <a
-                      href="https://github.com/JescapsAntwi/Codveda_Submission"
+                      href="https://github.com/JescapsAntwi/wells-fargo-task2"
                       target="_blank"
                       rel="noopener noreferrer"
                       className="text-red-500 hover:text-red-600 hover:underline"
