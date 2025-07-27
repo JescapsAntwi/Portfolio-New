@@ -216,8 +216,8 @@ const About = () => {
                   </div>
                   <ul className="list-disc list-inside">
                     <li>
-                      Designed a comprehensive digital system to manage internal
-                      HR records and workflows, reducing manual workload by 40%.
+                      Assessed a digital health company’s technical requirements
+                      and cloud infrastructure
                     </li>
                     <li>
                       Automated workflows using backend logic and no-code
