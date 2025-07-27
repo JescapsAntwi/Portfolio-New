@@ -266,7 +266,10 @@ const About = () => {
                       Designed a portfolio management system for financial
                       advisors
                     </li>
-                    <li>Implemented effective hyperparameter tuning</li>
+                    <li>
+                      Practiced data modeling and created detailed Entity
+                      Relationship Diagrams (ERDs)
+                    </li>
                     <li>Produced a comprehensive model evaluation</li>
                     <li>Practical application of machine learning concepts</li>
                   </ul>
