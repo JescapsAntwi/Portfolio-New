@@ -228,8 +228,8 @@ const About = () => {
                       needs and system analysis
                     </li>
                     <li>
-                      Recommended a cloud-native architecture based on client
-                      needs and system analysis
+                      Gained hands-on experience in agile methodology,
+                      programming, and cloud architecture planning
                     </li>
                   </ul>
                 </div>
