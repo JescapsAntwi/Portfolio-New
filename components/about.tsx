@@ -181,8 +181,8 @@ const About = () => {
                       streaming
                     </li>
                     <li>
-                      Optimized application performance resulting in 30% faster
-                      load times
+                      Utilized Spring Boot, H2 database, and REST controllers in
+                      a simulated production environment
                     </li>
                   </ul>
                 </div>
