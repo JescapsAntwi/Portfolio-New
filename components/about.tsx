@@ -220,8 +220,8 @@ const About = () => {
                       and cloud infrastructure
                     </li>
                     <li>
-                      Automated workflows using backend logic and no-code
-                      prototyping tools.
+                      Identified infrastructure gaps and differentiated between
+                      IaaS and PaaS solutions
                     </li>
                     <li>
                       Integrated charts for data visualization, enabling HR to
